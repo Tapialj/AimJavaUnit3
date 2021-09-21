@@ -1,0 +1,7 @@
+Rectangle
+----------------
+-height: double
+-width: double
+----------------
++getArea()
++getPerimeter()
