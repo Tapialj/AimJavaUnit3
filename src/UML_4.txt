@@ -1,0 +1,15 @@
+MyPoint
+-------------------
+-xCoord: int
+-yCoord: int
+-------------------
++MyPoint()
++MyPoint(xCoord: int, yCoord: int)
++distance(xCoord: int, yCoord: int): double
++distance(p: MyPoint): double
+_+distance(p1: MyPoint, p2: MyPoint): double_
++getxCoord(): int
++setxCoord(xCoord: int): void
++getyCoord(): int
++setyCoord(yCoord: int): void
++toString(): String
