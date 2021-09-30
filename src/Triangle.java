@@ -1,5 +1,3 @@
-package bonus2;
-
 import java.text.*;
 
 public class Triangle extends GeometricObject

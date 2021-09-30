@@ -1,5 +1,3 @@
-package bonus1;
-
 public class Card 
 {
     private String suit;

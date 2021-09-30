@@ -1,5 +1,3 @@
-package bonus1;
-
 import java.util.*;
 
 public class Assignment3_2 
