@@ -19,7 +19,8 @@ public class Assignment3_4
 
         do{
             System.out.println("the x coordinate of a point:");
-            userInput = input.nextLine(); 
+            userInput = input.nextLine();
+            userInput = userInput.trim();
             
             if(checkIfInt(userInput))
             {
@@ -38,7 +39,8 @@ public class Assignment3_4
         do
         {
             System.out.println("the y coordinate of a point:");
-            userInput = input.nextLine(); 
+            userInput = input.nextLine();
+            userInput = userInput.trim();
 
             if(checkIfInt(userInput))
             {
